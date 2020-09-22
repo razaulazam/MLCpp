@@ -1,4 +1,4 @@
-# PatternAnalysisAlgorithms
+# Pattern Analysis Algorithms
 
 mean_shift_algorithm: Contains the implementation of the mean shift clustering algorithm which is used when we do not have an idea about the number of clusters, our data can be grouped into.
 
