@@ -1,6 +1,6 @@
 #include <time.h>
 
-#include "DensityTree.hpp"
+#include "density_tree.h"
 
 DensityTree::DensityTree(unsigned int D, unsigned int n_thresholds, Mat X){
     this->D = D;
